@@ -23,7 +23,7 @@ body{
     background: black;
     color: var(--libl);
     font-family: 'Open Sans', sans-serif;
-    min-width: 600px;
+    min-width: 400px;
 }
 
 h1{

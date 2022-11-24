@@ -53,3 +53,7 @@ button {
 button:active {
     font-size: larger;
 }
+
+ul {
+    font-size: large;
+}
